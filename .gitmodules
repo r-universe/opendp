@@ -1,4 +1,9 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/opendp/opendp.r-universe.dev
 	branch = HEAD
+[submodule "opendpbase"]
+	path = opendpbase
+	url = https://github.com/opendp/opendp
+	branch = 365-r-bindings-iqss-gen
+	subdir = R/opendpbase
