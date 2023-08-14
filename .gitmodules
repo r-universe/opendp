@@ -5,5 +5,5 @@
 [submodule "opendpbase"]
 	path = opendpbase
 	url = https://github.com/opendp/opendp
-	branch = 365-r-bindings-iqss-gen
+	branch = r-latest
 	subdir = R/opendpbase
