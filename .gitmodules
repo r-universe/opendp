@@ -2,8 +2,8 @@
 	path = .registry
 	url = https://github.com/opendp/opendp.r-universe.dev
 	branch = HEAD
-[submodule "opendpbase"]
-	path = opendpbase
+[submodule "opendp"]
+	path = opendp
 	url = https://github.com/opendp/opendp
 	branch = r-latest
-	subdir = R/opendpbase
+	subdir = R/opendp
